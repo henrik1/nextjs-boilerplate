@@ -44,7 +44,7 @@ with your browser to see the result.
 ```shell
 npm run storybook
 # or
-yarn run storybook
+yarn storybook
 ```
 
 Open [http://localhost:9009](http://localhost:9009) 
@@ -87,7 +87,7 @@ and run:
 ```shell
  npm run chromatic
  # or
- yarn run chromatic
+ yarn chromatic
 ```
 
 
